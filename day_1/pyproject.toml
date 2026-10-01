@@ -1,7 +1,7 @@
 [project]
 name = "machine-learning"
 version = "0.1.0"
-description = "Add your description here"
+description = "Machine learning exercises: classification, regression, CNNs and RNNs"
 readme = "README.md"
 authors = [
     { name = "Hugo Caravlho", email = "hugomnc317@gmail.com" }
