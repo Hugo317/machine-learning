@@ -6,3 +6,7 @@ wheels/
 *.egg-info
 .venv
 .DS_Store
+
+# Image datasets: kept locally, not committed
+day_4/Data/
+*.zip
